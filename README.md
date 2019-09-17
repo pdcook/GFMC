@@ -13,7 +13,7 @@ From the abstract of Clark and Cook (2019): In this manuscript we present a meth
 
 ## Introduction <a name="intro">
 
-This repository serves to show example code of Gaussian Focused Monte Carlo (GFMC) for simulating Gaussian beam propagation with Monte Carlo photon transport. This code accompanies A Method for Coupling Monte Carlo Simulations of Photon Transport to Gaussian Beam Propagation by Clark and Cook (2019). This code was written on/for Ubuntu 18.04, 18.10, and 19.04.
+This repository serves to show example code of Gaussian Focused Monte Carlo (GFMC) for simulating Gaussian beam propagation with Monte Carlo photon transport. This code accompanies "A Method for Coupling Monte Carlo Simulations of Photon Transport to Gaussian Beam Propagation" by Clark and Cook (2019). This code was written on/for Ubuntu 18.04, 18.10, and 19.04.
 
 ## What are all these files for? <a name="files">
 
