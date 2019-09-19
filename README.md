@@ -1,4 +1,4 @@
-# Gaussian Focus Monte Carlo - GFMC
+# Gaussian Focused Monte Carlo - GFMC
 
 A Method for Coupling Monte Carlo Simulations of Photon Transport to Gaussian Beam Propagation
 
